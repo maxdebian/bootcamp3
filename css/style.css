@@ -5,3 +5,7 @@ p{
     margin: auto;
     background-color: aqua;
 }
+.registroUsuario{
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
