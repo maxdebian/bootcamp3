@@ -1,0 +1,3 @@
+function formulario(){
+    return "Hola";
+}
