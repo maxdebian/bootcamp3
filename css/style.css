@@ -1,3 +1,12 @@
 p{
     font-size: 10px;
+    color: brown;
+}
+.login{
+    margin: auto;
+    background-color: crimson;
+}
+.registroUsuario{
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
 }
