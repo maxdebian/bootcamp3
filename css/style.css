@@ -1,9 +1,10 @@
 p{
     font-size: 10px;
+    color: brown;
 }
 .login{
     margin: auto;
-    background-color: aqua;
+    background-color: crimson;
 }
 .registroUsuario{
     font-size: 10px;
