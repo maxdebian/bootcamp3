@@ -1,0 +1,23 @@
+git status // status de mi rama
+git branch "nombre" // crear una nueva rama
+    git checkout nombre 
+git branch // nos muestra las ramas locales
+git checkout "nombreRama" // cambiar a la rama nombreRama 
+git checkout -b "nombreRama" // -b branch 
+
+// preparar para subir nuestros cambios
+git add . // agrega todos los archivos modificados y/o agregados "nuevos"
+git add "nombre de archivo" // solo agrega el archivo especificado
+git commit -m "mensaje" // realizar el commit y preparacion para subir los cambios
+git push origin "#4"
+
+// Para descargar
+git clone "URL" // descarga el repositorio
+git pull origin "nombre de la rama" // descarga la rama entera
+
+
+// Merge o union de ramas
+git merge "#4"    // Aca tengo que estar posicionado en develop
+git pull origin "#4" // aca tengo que estar posicionado en develop
+
+git fetch // me actualiza las ramas remotas
