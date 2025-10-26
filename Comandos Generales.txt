@@ -21,3 +21,6 @@ git merge "#4"    // Aca tengo que estar posicionado en develop
 git pull origin "#4" // aca tengo que estar posicionado en develop
 
 git fetch // me actualiza las ramas remotas
+
+git stash
+
