@@ -6,4 +6,8 @@ function search(user){
 function login(){
     alert('test');
     console.log('Error');
+    for (let index = 0; index < array.length; index++) {
+        const element = array[index];
+        console.log(element)
+    }
 }
