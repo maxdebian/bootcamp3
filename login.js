@@ -5,4 +5,9 @@ function search(user){
 function login(){
     alert('test');
     console.log('Boca Juniors Wins');
+
+    for (let index = 0; index < array.length; index++) {
+        const element = array[index];
+        
+    }
 }
