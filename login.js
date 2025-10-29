@@ -3,4 +3,5 @@ function search(user){
 }
 function login(){
     alert('test');
+    console.log('add new feature')
 }
